@@ -5,19 +5,19 @@
 
 Welcome to your friendly neighborcode's github!, let me introduce my self first. My name is Nizwar, i love to write a little code and ate some chocolates.
 
-## A little about me! <img src="/src/partyblobcat.gif" height=30px style="margin-bottom:-5px">
+## A little about me! <img src="https://github.com/nizwar/nizwar/raw/master/src/partyblobcat.gif" height=30px style="margin-bottom:-5px">
 I love to programming since i was a little boy, I was a desktop programmer until i start studying on Bina Sarana Informatika, i found my passion that i really love to being Mobile Developer. Until today i still learn about mobile technology to improve my skill and knowledge.
 
-## What i love as much as i love your smile? <img src="/src/loveparrot.gif"  style="margin-bottom:-5px">
-I love to learn something new, discovering new technique, simpliest and efficient way to reach what i excpected, and of course your heart too. <img src="/src/ultrafastparrot.gif" height=30px style="margin-bottom:-5px">
+## What i love as much as i love your smile? <img src="https://github.com/nizwar/nizwar/raw/master/src/loveparrot.gif"  style="margin-bottom:-5px">
+I love to learn something new, discovering new technique, simpliest and efficient way to reach what i excpected, and of course your heart too. <img src="https://github.com/nizwar/nizwar/raw/master/src/ultrafastparrot.gif" height=30px style="margin-bottom:-5px">
 
 
-## What i currently do?  <img src="/src/wfhparrot.gif" height=30px style="margin-bottom:-5px">
+## What i currently do?  <img src="https://github.com/nizwar/nizwar/raw/master/src/wfhparrot.gif" height=30px style="margin-bottom:-5px">
 I'm currently working on a secret company and i'm an outsourcing on [IdeKite Indonesia](https://idekite.id) as Mobile Programmer. I've already done many **secret** project but sometimes i share it here too... feel free to browse my repositories!
 
 If you need something to ask, don't be shy to
 
-## Tickle me on  <img src="/src/stalkerparrot.gif" height=30px style="margin-bottom:-5px">
+## Tickle me on  <img src="https://github.com/nizwar/nizwar/raw/master/src/stalkerparrot.gif" height=30px style="margin-bottom:-5px">
 * Facebook - https://fb.me/hangpuan.
 * Linkedin - https://www.linkedin.com/in/nizwar
 * Personal Blog - https://www.nizwar.id
